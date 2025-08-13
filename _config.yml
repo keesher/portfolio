@@ -1,0 +1,5 @@
+    title: My Life, My Choise
+    description: Just everything about me ... probably
+    theme: minima
+    plugins:
+      - jekyll-feed
